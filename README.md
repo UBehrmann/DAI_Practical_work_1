@@ -38,7 +38,7 @@ This Java Maven project is designed to search for a specific string within one o
 3. Run the `Main` class with the following arguments:
    - find
      - the command to run the application.
-   - -s "string"
+   - -s "string" or --string "string"
      - The string to search for.
    - file paths
      - The file paths to search in.
@@ -75,7 +75,7 @@ the arguments are the same as in the IDE:
 
 - find
   - the command to run the application.
-- -s "string"
+- -s "string" or --string "string"
   - The string to search for.
 - file paths
   - The file paths to search in.
